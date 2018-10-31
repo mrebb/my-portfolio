@@ -1,13 +1,15 @@
 {
-  "main.css": "/my-portfolio/static/css/main.8590ec14.chunk.css",
-  "main.js": "/my-portfolio/static/js/main.32495513.chunk.js",
-  "main.js.map": "/my-portfolio/static/js/main.32495513.chunk.js.map",
-  "static/js/1.061ddae8.chunk.js": "/my-portfolio/static/js/1.061ddae8.chunk.js",
-  "static/js/1.061ddae8.chunk.js.map": "/my-portfolio/static/js/1.061ddae8.chunk.js.map",
+  "main.css": "/my-portfolio/static/css/main.b9ee32ca.chunk.css",
+  "main.js": "/my-portfolio/static/js/main.13991541.chunk.js",
+  "main.js.map": "/my-portfolio/static/js/main.13991541.chunk.js.map",
+  "static/js/1.74f6ac63.chunk.js": "/my-portfolio/static/js/1.74f6ac63.chunk.js",
+  "static/js/1.74f6ac63.chunk.js.map": "/my-portfolio/static/js/1.74f6ac63.chunk.js.map",
   "runtime~main.js": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js",
   "runtime~main.js.map": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js.map",
-  "static/css/main.8590ec14.chunk.css.map": "/my-portfolio/static/css/main.8590ec14.chunk.css.map",
+  "static/media/brand-logo.png": "/my-portfolio/static/media/brand-logo.a0433299.png",
+  "static/media/mypic.png": "/my-portfolio/static/media/mypic.dcb04494.png",
+  "static/css/main.b9ee32ca.chunk.css.map": "/my-portfolio/static/css/main.b9ee32ca.chunk.css.map",
   "index.html": "/my-portfolio/index.html",
-  "precache-manifest.4725906a12ba953996ec2c5cc98517aa.js": "/my-portfolio/precache-manifest.4725906a12ba953996ec2c5cc98517aa.js",
+  "precache-manifest.0740a201334a1cd25cb61ff19419043c.js": "/my-portfolio/precache-manifest.0740a201334a1cd25cb61ff19419043c.js",
   "service-worker.js": "/my-portfolio/service-worker.js"
 }
