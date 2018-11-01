@@ -1,0 +1,31 @@
+
+ $screen-desktop-min: 600px;
+ $screen-desktop-max: 599px;
+ a {
+  color: inherit;
+}
+a:hover {color:#FF00FF;} 
+.header-section{
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height:100%;
+  width:100%; 
+  
+}
+.title-section{
+  margin-left: 15%;
+  margin-top: 50%;
+}
+ @media only screen and (min-width: #{$screen-desktop-min}) {
+  .header-section{
+    background-position: initial
+  }
+  .title-section{
+    margin-left: 30%;
+    margin-top: 24%;
+  }
+  }
+ 

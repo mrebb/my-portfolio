@@ -1,0 +1,28 @@
+
+ $screen-desktop-min: 600px;
+  a {
+    color: inherit;
+  }
+  a:hover {color:#FF00FF;} 
+  .nav-bar{
+    padding-top:4%;
+    padding-left: 5%;
+  }
+  ul{
+    list-style-type: none;
+    padding-left: 14%
+  }
+  li{
+    display: block;
+    padding: 20px;
+    color:white;
+    background-color: transparent;
+    float: left
+  }
+  @media only screen and (min-width: #{$screen-desktop-min}) {
+    .nav-bar{
+        padding-top:5%;
+        padding-left: 30%
+        
+      }
+  }
