@@ -1,0 +1,46 @@
+$screen-desktop-min: 600px;
+
+.about-section{
+    background-color:#39373a;
+    color: white;
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    line-height: 1.428571429;
+}
+
+h3{
+    text-transform: uppercase;
+    font-size: 42px;
+    margin-top: 0%;
+}
+p{
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 3%;
+    margin-right: 3%
+}
+p::first-letter {
+    color: rgb(112, 91, 231);
+  }
+p::selection {
+    background-color: #d24a27;
+    color: #FFF;
+  }
+h2{
+    margin: 1.78rem 0 1.424rem 0;
+    font-weight: 400
+}
+blockquote {
+    border-left: 5px solid #795548;
+    color: #795548;
+    font-size: 125%;
+    font-weight: 400;
+    margin: 20px 0;
+    padding-left: 1.5rem;
+}
+
+@media only screen and (min-width:#{$screen-desktop-min}){
+    .about-div{
+        line-height: 2.8rem;
+    }
+}
