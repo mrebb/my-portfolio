@@ -1,11 +1,11 @@
 import { createStore, combineReducers, applyMiddleware, compose } from 'redux';
 import thunk from 'redux-thunk';
-import defaultReducer from '../reducer/default-reducer.js';
+import menu from '../reducer/menu.js';
 
 import logger from '../middleware/logger.js';
 
 const appReducer = combineReducers({
-  defaultReducer,
+  menu,
 });
 
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
