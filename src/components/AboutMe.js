@@ -1,6 +1,5 @@
 import React from 'react'
 import './AboutMe.scss';
-
 export default class AboutMe extends React.Component{
 render(){
 return (
@@ -16,7 +15,6 @@ return (
   <p>During my journey I closely observed and analyzed how applications interact with operating system, kernel and hardware which encouraged me &#38; driven me towards full stack development. I am always passionate about coding &#38; development which makes me feel complete as a software developer and also as 'myself'. I would like to take my career in software development to next level in machine learning, AI &#38; IOT space where technology is growing rapidly.</p>
   </div>
   </section>
-  
 );
 }
 }
