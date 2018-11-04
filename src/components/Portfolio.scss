@@ -41,9 +41,14 @@ img{
     margin-right: 5%;
     padding-top: 5%
 }
-
+.card-footer{
+    border: 5px solid #795548;
+    text-align: center;
+}
 .project-description{
     font-size: 110%;
+    padding-bottom: 5%;
+    color: #0c090afa;
 }
 @media only screen and (min-width:#{$screen-desktop-min}){
    
