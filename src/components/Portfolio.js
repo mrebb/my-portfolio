@@ -28,25 +28,25 @@ return (
     </Col>
     <Col md={4}>
       <div className="project-title">React Native iOS</div>
-      <img style={{width: '50%'}} onMouseEnter={this.show}
+      <img style={{width: '46%'}} onMouseEnter={this.show}
     onMouseLeave={this.hide} src={this.state.image} alt="" />
       <p className="project-description">React Native iOS application with React Native and XCode. Solution helps instructors to interact with Random student finder, github integration, student pairs generation and quiz modules. React Native application on Mobile provides instant access for instructors on need basis.</p>
     </Col>
     <Col md={4}>
       <div className="project-title">Code Commando</div>
-      <img style={{width: '50%'}} src={this.state.image} alt="" />
+      <img style={{width: '46%'}} src={this.state.image} alt="" />
       <p className="project-description">Full stack React and Electron frontend applications with Express Middleware &#38; Node JS as server. Solution helps instructors to interact with compile code, save to github using backend API and return output using Monaco code compiling interface. Additional modules include Random student finder, github integration, student pairs generation and quiz modules. </p>
     </Col>
   </Row>
   <Row style={{marginTop:'5%'}}>
     <Col md={4}>
     <div className="project-title">Zero Waste Washington</div>
-    <img style={{width: '50%'}} src={this.state.image} alt="" />
+    <img style={{width: '70%',height:'60%'}} src='https://github.com/mrebb/my-portfolio/blob/master/src/assets/zww.png?raw=true' alt="" />
       <p className="project-description">Full-stack react redux application that makes on-field team and volunteers to collect litter and report to agency on various details of the visited site. </p>
     </Col>
     <Col md={4}>
        <div className="project-title">Image Journal</div>
-      <img  style={{width: '50%'}} src={this.state.image} alt="" />
+      <img  style={{width: '50%'}} src='https://github.com/mrebb/my-portfolio/blob/master/src/assets/imagejournal.jpg?raw=true' alt="" />
       <p className="project-description">Converted Wordpress website to iOS and Android using PWA(progressive web app)</p>
     </Col>
     <Col md={4}>
@@ -63,13 +63,13 @@ return (
     </Col>
     <Col md={4}>
       <div className="project-title">Supply chain management &#38; Bing AdCenter BI &#38; JAZZ</div>
-      <img style={{width: '50%'}} src={this.state.image} alt="" />
-      <p className="project-description">Automated solution for the Hardware Procurement Process that uses Microsoft Dynamics AX as base platform. Also worked on Microsoft Dynamics CRM &#38; SQL Server SSIS jobs.</p>
+      <img style={{width: '90%',height:'29%'}} src='https://github.com/mrebb/my-portfolio/blob/master/src/assets/crm.jpg?raw=true' alt="" />
+      <p className="project-description">Automated solution for the Hardware Procurement Process that uses Microsoft Dynamics AX as base platform. Worked as SDET, offshore QA Lead for Microsoft Dynamics CRM &#38; project that allows partners to create Bing Ads that goes through a business flow using SQL Server SSIS jobs and then data gets loaded to Microsoft Dynamic CRM for Sales module.</p>
     </Col>
     <Col md={4}>
-       <div className="project-title">SingleView billing system(Telecom)</div>
-      <img style={{width: '50%'}} src={this.state.image} alt="" />
-      <p className="project-description">MTNL is Telecom Service Provider, operating its Wireline &#38; Wireless businesses from Delhi &#38; Mumbai in India, providing a wide spectrum of voice &#38; data related services to its customers using different OSS/BSS systems</p>
+       <div style={{}}className="project-title">SingleView billing system(Telecom)</div>
+      <img style={{width: '90%',paddingTop:'11%'}} src='https://github.com/mrebb/my-portfolio/blob/master/src/assets/mtnl.png?raw=true' alt="" />
+      <p className="project-description">MTNL is Telecom Service Provider, operating its Wireline &#38; Wireless businesses from Delhi &#38; Mumbai in India, providing a wide spectrum of voice &#38; data related services to its customers using different OSS/BSS systems. Worked as a QA for peoplesoft CRM, billing systems and also worked as UAT tester onsite.</p>
     </Col>
   </Row>
 </Container>
