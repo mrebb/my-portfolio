@@ -6,13 +6,13 @@ import SocialLogo from "social-logos";
 import Menu from "./Menu.js";
 import "./Header.scss";
 const Template = require("../assets/fullpic.JPG");
-
+//style={{ backgroundImage: `url(${Template})` }}
 export default class Header extends React.Component {
   render() {
     return (
       <section
-        className="header-section"
-        style={{ backgroundImage: `url(${Template})` }}
+        id="home"className="header-section"
+        
       >
         <Image src={Logo} alt="" />
         <NavLinks>
