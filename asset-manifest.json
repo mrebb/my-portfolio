@@ -1,9 +1,9 @@
 {
-  "main.css": "/my-portfolio/static/css/main.86831c3e.chunk.css",
-  "main.js": "/my-portfolio/static/js/main.7404752c.chunk.js",
-  "main.js.map": "/my-portfolio/static/js/main.7404752c.chunk.js.map",
-  "static/js/1.78ec68b4.chunk.js": "/my-portfolio/static/js/1.78ec68b4.chunk.js",
-  "static/js/1.78ec68b4.chunk.js.map": "/my-portfolio/static/js/1.78ec68b4.chunk.js.map",
+  "main.css": "/my-portfolio/static/css/main.aa6e30f1.chunk.css",
+  "main.js": "/my-portfolio/static/js/main.ba8c7993.chunk.js",
+  "main.js.map": "/my-portfolio/static/js/main.ba8c7993.chunk.js.map",
+  "static/js/1.a24e5c8b.chunk.js": "/my-portfolio/static/js/1.a24e5c8b.chunk.js",
+  "static/js/1.a24e5c8b.chunk.js.map": "/my-portfolio/static/js/1.a24e5c8b.chunk.js.map",
   "runtime~main.js": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js",
   "runtime~main.js.map": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js.map",
   "static/media/brand-logo.png": "/my-portfolio/static/media/brand-logo.a0433299.png",
@@ -12,8 +12,8 @@
   "static/media/ioscodecommando.png": "/my-portfolio/static/media/ioscodecommando.031239f9.png",
   "static/media/ioscodecommando.gif": "/my-portfolio/static/media/ioscodecommando.79eb5db7.gif",
   "static/media/fullpic.JPG": "/my-portfolio/static/media/fullpic.1646d251.JPG",
-  "static/css/main.86831c3e.chunk.css.map": "/my-portfolio/static/css/main.86831c3e.chunk.css.map",
+  "static/css/main.aa6e30f1.chunk.css.map": "/my-portfolio/static/css/main.aa6e30f1.chunk.css.map",
   "index.html": "/my-portfolio/index.html",
-  "precache-manifest.33062316f81534437fb24d953349d611.js": "/my-portfolio/precache-manifest.33062316f81534437fb24d953349d611.js",
+  "precache-manifest.842fecfd3cb947016300f71e5c8c4925.js": "/my-portfolio/precache-manifest.842fecfd3cb947016300f71e5c8c4925.js",
   "service-worker.js": "/my-portfolio/service-worker.js"
 }
