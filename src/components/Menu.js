@@ -1,4 +1,5 @@
-import React from "react";
+import React,{Fragment} from "react";
+
 import './MenuBar.scss';
 
 export default class Menu extends React.Component {
@@ -11,6 +12,7 @@ export default class Menu extends React.Component {
     
   render() {
     return (
+        <Fragment>
       <div className="nav-bar">
         <ul>
           <li>
@@ -21,6 +23,7 @@ export default class Menu extends React.Component {
           <li>CONTACT</li>
         </ul>
       </div>
+      </Fragment>
     );
   }
 }
