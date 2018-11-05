@@ -1,0 +1,36 @@
+.skills{
+  background-color: #7fb0a6;
+}
+.skill-title{
+  font-size: 1.8em;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  margin-top: 5%
+  
+}
+.img-with-text {
+  float: left;
+  padding: 5%;
+  width: 15%;
+}
+
+.img-with-text img {
+  display: block;
+  margin: 0 auto;
+}
+.img-with-text p {
+  font-size: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.row-image{
+  border: 2px solid #769a9ad1;
+}
+.row-image::after {
+  content: "";
+  clear: both;
+  display: table;
+}
