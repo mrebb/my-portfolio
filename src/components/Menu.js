@@ -19,7 +19,7 @@ export default class Menu extends React.Component {
             <a style={{textDecoration: 'none'}}href="#about">ABOUT ME</a>
           </li>
           <li><a style={{textDecoration: 'none'}}href="#portfolio">PORTFOLIO</a></li>
-          <li>SKILLS</li>
+          <li><a style={{textDecoration: 'none'}}href="#skills">SKILLS</a></li>
           <li>CONTACT</li>
         </ul>
       </div>
