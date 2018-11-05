@@ -1,7 +1,7 @@
 {
-  "main.css": "/my-portfolio/static/css/main.aa6e30f1.chunk.css",
-  "main.js": "/my-portfolio/static/js/main.ba8c7993.chunk.js",
-  "main.js.map": "/my-portfolio/static/js/main.ba8c7993.chunk.js.map",
+  "main.css": "/my-portfolio/static/css/main.3c44f440.chunk.css",
+  "main.js": "/my-portfolio/static/js/main.b971eacb.chunk.js",
+  "main.js.map": "/my-portfolio/static/js/main.b971eacb.chunk.js.map",
   "static/js/1.a24e5c8b.chunk.js": "/my-portfolio/static/js/1.a24e5c8b.chunk.js",
   "static/js/1.a24e5c8b.chunk.js.map": "/my-portfolio/static/js/1.a24e5c8b.chunk.js.map",
   "runtime~main.js": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js",
@@ -12,8 +12,8 @@
   "static/media/ioscodecommando.png": "/my-portfolio/static/media/ioscodecommando.031239f9.png",
   "static/media/ioscodecommando.gif": "/my-portfolio/static/media/ioscodecommando.79eb5db7.gif",
   "static/media/fullpic.JPG": "/my-portfolio/static/media/fullpic.1646d251.JPG",
-  "static/css/main.aa6e30f1.chunk.css.map": "/my-portfolio/static/css/main.aa6e30f1.chunk.css.map",
+  "static/css/main.3c44f440.chunk.css.map": "/my-portfolio/static/css/main.3c44f440.chunk.css.map",
   "index.html": "/my-portfolio/index.html",
-  "precache-manifest.842fecfd3cb947016300f71e5c8c4925.js": "/my-portfolio/precache-manifest.842fecfd3cb947016300f71e5c8c4925.js",
+  "precache-manifest.78f16afdf24d15b679e74f01790153c8.js": "/my-portfolio/precache-manifest.78f16afdf24d15b679e74f01790153c8.js",
   "service-worker.js": "/my-portfolio/service-worker.js"
 }
