@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import Logo from "../../src/assets/brand-logo.png";
 import SocialLogo from "social-logos";
+
 import Menu from "./Menu.js";
 import "./Header.scss";
 const Template = require("../assets/fullpic.JPG");
