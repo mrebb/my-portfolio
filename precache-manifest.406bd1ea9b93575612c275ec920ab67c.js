@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "dcf1370c9972af11e36d",
-    "url": "/my-portfolio/static/css/main.7cc6f825.chunk.css"
+    "revision": "5ca639325c1d855d086c",
+    "url": "/my-portfolio/static/css/main.da1ad0e0.chunk.css"
   },
   {
-    "revision": "dcf1370c9972af11e36d",
-    "url": "/my-portfolio/static/js/main.dcf1370c.chunk.js"
+    "revision": "5ca639325c1d855d086c",
+    "url": "/my-portfolio/static/js/main.5ca63932.chunk.js"
   },
   {
-    "revision": "c6fc9176dd40a9c87c92",
-    "url": "/my-portfolio/static/js/1.c6fc9176.chunk.js"
+    "revision": "52c1487a74a2d6da0dd9",
+    "url": "/my-portfolio/static/js/1.52c1487a.chunk.js"
   },
   {
     "revision": "f2bb3e8d5477afa4b7c6",
@@ -56,19 +56,15 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/webpack.4de645e1.png"
   },
   {
-    "revision": "1646d251cc0b95e59fad7863cbecf2a8",
-    "url": "/my-portfolio/static/media/fullpic.1646d251.JPG"
+    "revision": "da13c5b9e138237702ca61c6144738ce",
+    "url": "/my-portfolio/static/media/sql.da13c5b9.png"
   },
   {
-    "revision": "87d994875c22d91270c9d27302a45fb7",
-    "url": "/my-portfolio/static/media/bootstrap.87d99487.png"
+    "revision": "c809a3d21ffaf8c0ff872126eeb3e6c7",
+    "url": "/my-portfolio/static/media/travis.c809a3d2.png"
   },
   {
-    "revision": "6ded14c8a9e078f1d9c305186271078d",
-    "url": "/my-portfolio/static/media/wordpress.6ded14c8.png"
-  },
-  {
-    "revision": "eb4353a83ba5cf48a1a0c4c3a065cf47",
+    "revision": "c760f2f0475df3b962c5f0324de0d9ca",
     "url": "/my-portfolio/index.html"
   }
 ];
