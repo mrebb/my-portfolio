@@ -1,0 +1,47 @@
+.education{
+  background-color: #e8e4f3;
+}
+.education-title{
+  font-size: 1.8em;
+  text-align: left;
+  font-weight: bold;
+  color: rgb(49, 110, 138);
+  
+  // margin-top: 5%
+
+}
+.education-text {
+  float: left;
+  // padding: 5%;
+  padding-left: 2%;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  width: 60%;
+  margin-bottom: 10%;
+  border: 1px solid #6c5d7582;
+}
+.brown-text{
+  color:#672aa5f7;
+  font-style: italic;
+}
+.degree-text {
+  font-size: 200%;
+  font-weight: bold;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+.education-text p {
+    font-size: 100%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    
+}
+.education-text p::first-letter {
+  color: inherit;
+  font-size: inherit;
+  }
+ 

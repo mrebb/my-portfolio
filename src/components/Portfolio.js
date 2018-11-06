@@ -34,7 +34,7 @@ return (
     {this.state.npmProject && 
     <img style={{height:'33%'}}
     onMouseLeave={()=>this.hide('npmProject')} src={npmGif}  alt="" />}
-      <p className="project-description">This global installable npm package will allow any new developer to quickly start with boiler plate code for iOS and Android platforms with side-menu, authentication, redux,platform dev tools, connected screens and react navigation all with one command. Package published to npm and Yarn.</p>
+      <p className="project-description">Global installable npm package will allow any new developer to quickly start with boiler plate code for iOS and Android platforms with side-menu, authentication, redux,platform dev tools, connected screens and react navigation all with one command. Package published to npm and Yarn.</p>
       <div className="card-footer"><a style={{fontWeight:'bold',textDecoration: 'none'}}href="https://github.com/mrebb/react-native-redux-sidemenu-navigator-cli">View<SocialLogo style={{textAlign: 'center'}} icon="github" size={24} />Source </a></div>
     </Col>
     <Col md={4}>
@@ -58,13 +58,13 @@ return (
     <Col md={4}>
     <div className="project-title">Zero Waste Washington</div>
     <img style={{width: '46%'}} src='https://github.com/mrebb/my-portfolio/blob/master/src/assets/zww.png?raw=true' alt="" />
-      <p className="project-description">Full-stack react redux application that makes on-field team and volunteers to collect litter and report to agency on various details of the visited site. </p>
+      <p className="project-description">React redux Full stack application that makes on-field team and volunteers to collect litter and report to agency on various details of the visited site. </p>
       <div className="card-footer"><a style={{fontWeight:'bold',textDecoration: 'none'}}href="https://github.com/SeattleGiveCamp/SGC2018_etap-service">View<SocialLogo style={{textAlign: 'center'}} icon="github" size={24} />Source </a></div>
     </Col>
     <Col md={4}>
        <div className="project-title">Image Journal</div>
       <img  style={{width: '51%'}} src='https://github.com/mrebb/my-portfolio/blob/master/src/assets/imagejournal.jpg?raw=true' alt="" />
-      <p className="project-description">Converted Wordpress website to iOS and Android using PWA (progressive web app). Wordpress site is converted to iOS and Android apps with in very short time using PWA builder mechanism.</p>
+      <p className="project-description">Converted Wordpress website to iOS and Android using PWA (Progressive Web App). Wordpress site is converted to iOS and Android apps with in very short time using PWA builder mechanism.</p>
       <div className="card-footer"><a style={{fontWeight:'bold',textDecoration: 'none'}}href="https://github.com/SeattleGiveCamp/SGC2018_ImageJournal">View<SocialLogo style={{textAlign: 'center'}} icon="github" size={24} />Source </a></div>
     </Col>
     <Col md={4}>
@@ -84,7 +84,7 @@ return (
     <Col md={4}>
       <div className="project-title">Supply chain management &#38; Bing AdCenter BI &#38; JAZZ</div>
       <img style={{width: '90%',height:'29.5%'}} src='https://github.com/mrebb/my-portfolio/blob/master/src/assets/crm.jpg?raw=true' alt="" />
-      <p className="project-description">Automated solution for the Hardware Procurement Process that uses Microsoft Dynamics AX as base platform. Worked as SDET, offshore QA Lead for Microsoft Dynamics CRM &#38; project that allows partners to create Bing Ads that goes through a business flow using SQL Server SSIS jobs and then data gets loaded to Microsoft Dynamic CRM for Sales module.</p>
+      <p className="project-description">Automated solution for the Hardware Procurement Process that uses Microsoft Dynamics AX as base platform. Worked as SDET, offshore QA Lead for Microsoft Dynamics CRM project that allows partners to create Bing Ads that goes through a business flow using SQL Server SSIS jobs and then data gets loaded to Microsoft Dynamic CRM for Sales module.</p>
       <div className="card-footer"><a style={{fontWeight:'bold',textDecoration: 'none'}}href="https://dynamics.microsoft.com/en-us/">View Source </a></div>
     </Col>
     <Col md={4}>

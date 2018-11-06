@@ -1,5 +1,5 @@
 $screen-desktop-min: 600px;
-
+$screen-mobile-max: 599px;
 h3{
     text-transform: uppercase;
     font-size: 42px;
@@ -33,6 +33,7 @@ h3.h2::after, h3.h2::before {
 .project-title{
     margin-left: 10%;
     font-weight: bold;
+    color: #b13d3d
     
 }
 img{
@@ -51,6 +52,13 @@ img{
     padding-bottom: 5%;
     color: #0c090afa;
 }
-@media only screen and (min-width:#{$screen-desktop-min}){
-   
+@media only screen and (max-width:#{$screen-mobile-max}){
+    h3.h2::after, h3.h2::before {
+        position: absolute;
+       top: 50%;
+       display: block;
+       width: 15%;
+       border-bottom: 5px solid rgba(0, 0, 0, 0.25);
+       content: "";
+   }
 }

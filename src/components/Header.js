@@ -5,8 +5,7 @@ import SocialLogo from "social-logos";
 
 import Menu from "./Menu.js";
 import "./Header.scss";
-const Template = require("../assets/fullpic.JPG");
-//style={{ backgroundImage: `url(${Template})` }}
+
 export default class Header extends React.Component {
   render() {
     return (
@@ -39,7 +38,7 @@ export default class Header extends React.Component {
               borderTopWidth: "5px",
               borderTopStyle: "solid",
               borderTopColor: "rgba(255, 255, 255, 0.75)",
-              width: "90%",
+              width: "86%",
               margin: "0px"
             }}
           />

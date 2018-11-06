@@ -16,11 +16,13 @@ export default class Menu extends React.Component {
       <div className="nav-bar">
         <ul>
           <li>
-            <a style={{textDecoration: 'none'}}href="#about">ABOUT ME</a>
+            <a style={{textDecoration: 'none'}}href="#about">ABOUT</a>
           </li>
           <li><a style={{textDecoration: 'none'}}href="#portfolio">PORTFOLIO</a></li>
           <li><a style={{textDecoration: 'none'}}href="#skills">SKILLS</a></li>
-          <li>CONTACT</li>
+           <li><a style={{textDecoration: 'none'}}href="#education">EDUCATION</a></li>
+           <li><a style={{textDecoration: 'none'}}href="#contact">CONTACT</a></li>
+         
         </ul>
       </div>
       </Fragment>
