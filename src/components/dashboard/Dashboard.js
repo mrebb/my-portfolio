@@ -5,6 +5,9 @@ import Header from '../Header.js'
 import AboutMe from '../AboutMe.js'
 import Portfolio from '../Portfolio.js'
 import Skills from '../Skills.js';
+import Education from '../Education.js';
+import Contact from '../Contact.js';
+
 import { bubble as MenuBar } from 'react-burger-menu'
 class Dashboard extends Component {
   constructor(props){
@@ -28,11 +31,15 @@ class Dashboard extends Component {
         <a onClick={()=>this.handleClose()} className="menu-item" href="#about">About</a>
         <a onClick={()=>this.handleClose()} className="menu-item" href="#portfolio">Portfolio</a>
         <a onClick={()=>this.handleClose()} className="menu-item" href="#skills">Skills</a>
+        <a onClick={()=>this.handleClose()} className="menu-item" href="#education">Education</a>
+        <a onClick={()=>this.handleClose()} className="menu-item" href="#contact">Contact</a>
       </MenuBar>
      <Header/>  
      <AboutMe/>
      <Portfolio/>
      <Skills/>
+     <Education/>
+     <Contact/>
      </Fragment>
     );
   }

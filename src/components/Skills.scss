@@ -9,12 +9,21 @@
   margin-top: 5%
   
 }
+
 .img-with-text {
   float: left;
   padding: 5%;
   width: 15%;
 }
-
+.sass{
+  margin-top: 30%;
+}
+.sql{
+  margin-top: 42%;
+}
+.javascript{
+  margin-top: 20%;
+}
 .img-with-text img {
   display: block;
   margin: 0 auto;
@@ -26,10 +35,23 @@
     margin-right: auto;
     margin-bottom: auto;
 }
+.img-with-text p::first-letter {
+  color: inherit;
+  font-size: inherit;
+  }
 .row-image{
   border: 2px solid #769a9ad1;
 }
+.row-image-last{
+  border: 2px solid #769a9ad1;
+  margin-bottom: 2%;
+}
 .row-image::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.row-image-last::after {
   content: "";
   clear: both;
   display: table;

@@ -1,0 +1,30 @@
+.contact{
+  background-color: #f3d388;
+  a{
+    font-size: 75%;
+  }
+}
+
+.contact p::first-letter {
+  color: inherit;
+  }
+  .btn-floating {
+    display: inline-block;
+    width: 37px;
+    height: 37px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.brown {
+  background-color: #b16043 !important;
+  vertical-align: middle;
+}
+  #contact a:not(.btn-floating) {
+    left: 20px;
+    position: relative;
+  }
+  .last-anchor{
+    padding-bottom: 33%;
+  }
