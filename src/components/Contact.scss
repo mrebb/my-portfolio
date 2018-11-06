@@ -1,3 +1,6 @@
+
+$screen-mobile-max:999px;
+
 .contact{
   background-color: #f3d388;
   a{
@@ -27,4 +30,9 @@
   }
   .last-anchor{
     padding-bottom: 33%;
+  }
+  @media only screen and (max-width: #{$screen-mobile-max}) {
+    .last-anchor{
+      padding-bottom: 110%;
+    }
   }
